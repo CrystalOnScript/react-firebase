@@ -100,7 +100,7 @@ class FBSurvey extends Component {
       uid: uuid.v1(),
       // the name of the user with the initial state being a blank string
 
-      userName: "Crystal",
+      userName: "",
       // answers to survey, stored in an object
       answers: {
         answer1: "",
