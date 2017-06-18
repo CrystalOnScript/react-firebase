@@ -160,7 +160,7 @@ class FBSurvey extends Component {
           {/* <h3>Questions</h3> */}
           <form onSubmit={this.questionsSubmit}>
             <div>
-              <label>Did you find Firebase Survey and React document helpful?<br/> www.url.come</label>
+              <label>Did you find Firebase Survey and React document helpful?</label>
               <br />
               <br />
               {/* name is equal to answer1*/}
