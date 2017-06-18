@@ -2,6 +2,7 @@
   "name": "react-firebase",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://tranquil-temple-65117.herokuapp.com/",
   "dependencies": {
     "firebase": "^4.1.2",
     "react": "^15.6.1",
@@ -16,6 +17,5 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  },
-  "homepage" : "https://tranquil-temple-65117.herokuapp.com/",
+  }
 }
