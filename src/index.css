@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.logoPic {
+  height: 100px;
+}
+
+.fbPic {
+  height: 110px;
+}
+
+.nameInput {
+  font-size: 30px;
+}
+
+.submitBtn {
+  font-size: 25px;
+}
