@@ -7,7 +7,7 @@ const firebase = require('firebase');
 const uuid = require('uuid');
 
   // Initialize Firebase Code Block
-let config = {
+const config = {
   apiKey: "AIzaSyDnCOUUnFNATD8wMGuPD6TAAXQEi6Vjn-8",
   authDomain: "react-firebase-5e17f.firebaseapp.com",
   databaseURL: "https://react-firebase-5e17f.firebaseio.com",
